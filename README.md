@@ -1,3 +1,5 @@
 # SnippetSharing
 
-A description of this package.
+Move to existing project folder.
+
+Run swift **run SnippetSharing {SnippetFolderName}**
